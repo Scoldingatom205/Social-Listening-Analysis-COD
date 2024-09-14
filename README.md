@@ -9,7 +9,7 @@ How can Treyarch, the game developer, use player feedback to improve the game ah
 We collected and analyzed over 6,000 player reviews, comments, and posts from Reddit and Steam. The data included:
 
 - **Reddit:** Over 5000 posts and comments provided by players.
-- **Steam:** Over 6,000 user reviews for the BO6 beta version
+- **Steam:** Over 1000 user reviews for the BO6 beta version
 
 ## Insights Summary
 The analysis focused on two primary KPIs:
