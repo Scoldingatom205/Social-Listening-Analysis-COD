@@ -11,6 +11,12 @@ We collected and analyzed over 6,000 player reviews, comments, and posts from Re
 - **Reddit:** Over 5000 posts and comments provided by players.
 - **Steam:** Over 1000 user reviews for the BO6 beta version
 
+  ERD:
+  - reddit comments -  post_id	comment_id	comment_body	comment_score	comment_author	comment_created_utc	comment_depth	sentiment_score	sentiment	cleaned_comment	topic	topic_probability	manual_cluster
+- reddit posts - id	subreddit	title	selftext	score	upvote_ratio	num_comments	created_utc	url
+
+
+
 ## Insights Summary
 The analysis focused on two primary KPIs:
 - **Sentiment Score:** How players feel about the game overall (positive, negative).
@@ -50,3 +56,11 @@ Map design received positive feedback after new maps were introduced. Focus on c
 Continue tracking player sentiment post-launch to respond quickly to emerging issues, such as server stability and gameplay balancing, ensuring continued engagement and satisfaction.
 
 ### Importance for Treyarch, Activision
+This analysis is critical for ensuring the successful launch and long-term engagement of Call of Duty: Black Ops 6. By addressing key player concerns from the beta phase—such as server performance, weapon balancing, and gameplay mechanics—Treyarch can enhance player satisfaction and reduce post-launch issues.
+
+Prioritizing development efforts based on real feedback allows Treyarch to focus resources on areas that matter most, ensuring a smoother launch. For Activision, this data provides insights into player behavior and monetization opportunities, helping them optimize post-launch strategies and increase player retention.
+
+Overall, this work positions both companies to deliver a more polished experience, improve community relations, and gain a competitive edge in the FPS market. By continuously monitoring player sentiment, Treyarch and Activision can maintain the game's momentum and ensure its long-term success.
+
+
+
