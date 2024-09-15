@@ -11,9 +11,7 @@ We collected and analyzed over 6,000 player reviews, comments, and posts from Re
 - **Reddit:** Over 5000 posts and comments provided by players.
 - **Steam:** Over 1000 user reviews for the BO6 beta version
 
-  ERD:
-  - reddit comments -  post_id	comment_id	comment_body	comment_score	comment_author	comment_created_utc	comment_depth	sentiment_score	sentiment	cleaned_comment	topic	topic_probability	manual_cluster
-- reddit posts - id	subreddit	title	selftext	score	upvote_ratio	num_comments	created_utc	url
+![image](https://github.com/user-attachments/assets/922f3630-5107-46d9-a49e-84a398514df1)
 
 
 
@@ -30,11 +28,11 @@ The analysis focused on two primary KPIs:
 #### 2. Topic Modeling:
 Using BERTopic, we identified and categorized the top topics mentioned in both Reddit posts and Steam reviews. These topics reflect the most pressing concerns and highlights for players:
 
-- **Gameplay Experience:** Players praised the overall mechanics and fluidity of BO6, with positive feedback around movement and responsiveness.
-- **Weapon Balancing:** Discussions around weapon power and balance were heavily debated, with several users calling for minor tweaks before launch.
-- **Map Design:** The new maps were well-received, though a few players voiced concerns over spawn points and map size for certain game modes.
-- **Server Performance:** This was the most common area of negative feedback during Weekend 1 but saw a significant improvement following the 9/8 patch.
-- **Game/Engine Features:** Players expressed curiosity and excitement over new features but also flagged bugs and inconsistencies, especially in Warzone 2 integration.
+- **Gameplay Experience:** Players praised the overall mechanics and fluidity of BO6, with positive feedback around the innovative omnimovement. There is minor pushback on the time-to-kill with players hoping it would increase a touch. 
+- **Weapon Balancing:** Discussions around weapon power and balance were heavily debated, with players calling for adjustements to be made on the Jackal, AMES, AK-47 and C9 before launch.
+- **Map Design:** The new maps was mostly well-received. There were concerns over spawn points, the small map size and how it applies to certain game modes, and the 'power positioning' of certain sides of the map that were more favorable and difficult to overcome.
+- **Server Performance:** This was the most common area of negative feedback during Weekend 1 but saw a significant improvement on the latter half of the each beta weekend.
+- **Game/Engine Features:** There was a lot of criticm regarding the new COD HQ feature which had made it diffult for players to even play. Players talked about the winnder circle, final killcams, and there were mixed reviews regarding the Body Shield.
 
 ## Key Findings:
 Game/Engine Features: Highly discussed, especially after the September 8 Patch, which introduced improvements to server stability and new maps.
