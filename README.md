@@ -28,7 +28,7 @@ The analysis focused on two primary KPIs:
 #### 2. Topic Modeling:
 Using BERTopic, we identified and categorized the top topics mentioned in both Reddit posts and Steam reviews. These topics reflect the most pressing concerns and highlights for players:
 
-- **Gameplay Experience:** Players praised the overall mechanics and fluidity of BO6, with positive feedback around the innovative omnimovement. There is minor pushback on the time-to-kill with players hoping it would increase a touch. 
+- **Gameplay Experience:** Players praised the overall mechanics and fluidity of BO6, with positive feedback around the innovative omnimovement. They enjoy the fast-paced movement and high-kill environment. There is minor pushback on the time-to-kill with players hoping it would increase a touch. 
 - **Weapon Balancing:** Discussions around weapon power and balance were heavily debated, with players calling for adjustements to be made on the Jackal, AMES, AK-47 and C9 before launch.
 - **Map Design:** The new maps was mostly well-received. There were concerns over spawn points, the small map size and how it applies to certain game modes, and the 'power positioning' of certain sides of the map that were more favorable and difficult to overcome.
 - **Server Performance:** This was the most common area of negative feedback during Weekend 1 but saw a significant improvement on the latter half of the each beta weekend.
@@ -40,18 +40,10 @@ Weapon Balancing: Players felt that certain weapons were either too powerful or 
 Map Design: Players highlighted the need for balance between large and small maps, affecting visibility and playstyle variety.
 
 ## Recommendations:
-1. Focus on Server Performance:
-
-Server-related issues were the most negatively received, especially during the first beta weekend. Stabilizing servers and improving matchmaking are critical to improving player sentiment.
-2. Address Weapon Balancing:
-
-Weapon balancing remains a key concern for players. Treyarch should prioritize balancing patches for overpowered weapons to ensure fair gameplay.
-3. Leverage Positive Sentiment from New Maps:
-
-Map design received positive feedback after new maps were introduced. Focus on creating more diverse maps to keep the player base engaged.
-4. Monitor Feedback in Real Time:
-
-Continue tracking player sentiment post-launch to respond quickly to emerging issues, such as server stability and gameplay balancing, ensuring continued engagement and satisfaction.
+- 1. Focus on Server Performance: Server-related issues were the most negatively received, especially during the first beta weekend. Stabilizing servers and improving matchmaking are critical to improving player sentiment.
+- 2. Address Weapon Balancing: Weapon balancing remains a key concern for players. Treyarch should prioritize balancing patches for overpowered weapons to ensure fair gameplay.
+- 3. Leverage Positive Sentiment from New Maps: Map design received positive feedback after new maps were introduced. Focus on creating more diverse maps to keep the player base engaged.
+- 4. Monitor Feedback in Real Time: Continue tracking player sentiment post-launch to respond quickly to emerging issues, such as server stability and gameplay balancing, ensuring continued engagement and satisfaction.
 
 ### Importance for Treyarch, Activision
 This analysis is critical for ensuring the successful launch and long-term engagement of Call of Duty: Black Ops 6. By addressing key player concerns from the beta phase—such as server performance, weapon balancing, and gameplay mechanics—Treyarch can enhance player satisfaction and reduce post-launch issues.
