@@ -40,10 +40,10 @@ Weapon Balancing: Players felt that certain weapons were either too powerful or 
 Map Design: Players highlighted the need for balance between large and small maps, affecting visibility and playstyle variety.
 
 ## Recommendations:
-- 1. Focus on Server Performance: Server-related issues were the most negatively received, especially during the first beta weekend. Stabilizing servers and improving matchmaking are critical to improving player sentiment.
-- 2. Address Weapon Balancing: Weapon balancing remains a key concern for players. Treyarch should prioritize balancing patches for overpowered weapons to ensure fair gameplay.
-- 3. Leverage Positive Sentiment from New Maps: Map design received positive feedback after new maps were introduced. Focus on creating more diverse maps to keep the player base engaged.
-- 4. Monitor Feedback in Real Time: Continue tracking player sentiment post-launch to respond quickly to emerging issues, such as server stability and gameplay balancing, ensuring continued engagement and satisfaction.
+- **Focus on Server Performance:** Server-related issues were the most negatively received, especially during the first beta weekend. Stabilizing servers and improving matchmaking are critical to improving player sentiment.
+- **Address Weapon Balancing:** Weapon balancing remains a key concern for players. Treyarch should prioritize balancing patches for overpowered weapons to ensure fair gameplay.
+- **Leverage Positive Sentiment from New Maps:** Map design received positive feedback after new maps were introduced. Focus on creating more diverse maps to keep the player base engaged.
+- **Monitor Feedback in Real Time:** Continue tracking player sentiment post-launch to respond quickly to emerging issues, such as server stability and gameplay balancing, ensuring continued engagement and satisfaction.
 
 ### Importance for Treyarch, Activision
 This analysis is critical for ensuring the successful launch and long-term engagement of Call of Duty: Black Ops 6. By addressing key player concerns from the beta phase—such as server performance, weapon balancing, and gameplay mechanics—Treyarch can enhance player satisfaction and reduce post-launch issues.
