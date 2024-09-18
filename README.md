@@ -22,7 +22,7 @@ The analysis focused on two primary KPIs:
 
 #### 1. Sentiment Analysis:
 **Positive vs. Negative Reactions:**
-- Players were generally positive, with Beta Weekend Two seeing a 2% increase in positive sentiment compared to Beta Weekend One, despite having fewer playable days.
+- Players were generally positive, with Beta Weekend Two seeing an average of 60% increase in positive sentiment compared to Beta Weekend One, despite having two fewer playable days.
 - Server Stability and Weapon Balancing emerged as the most negatively discussed topics, particularly during Beta Weekend One.
 
 #### 2. Topic Modeling:
