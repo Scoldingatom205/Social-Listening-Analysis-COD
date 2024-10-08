@@ -1,6 +1,3 @@
-from config.settings import steam_collection, reddit_collection
-from your_data_collection_module import check_and_store_steam_reviews, check_and_store_reddit_comments
-
 def run_data_collection():
     """
     Collects Steam reviews and Reddit comments, and stores the new data in MongoDB.
