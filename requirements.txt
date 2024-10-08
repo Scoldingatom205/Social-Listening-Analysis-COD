@@ -1,1 +1,11 @@
 # Python dependencies
+
+pymongo
+pandas
+nltk
+requests
+bert-topic
+sentence-transformers
+schedule
+# Include other dependencies like airflow if needed
+
