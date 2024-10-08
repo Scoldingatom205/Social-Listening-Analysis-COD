@@ -1,3 +1,5 @@
+# Steam/Reddit data extraction functions
+
 def run_data_collection():
     """
     Collects Steam reviews and Reddit comments, and stores the new data in MongoDB.
