@@ -1,8 +1,5 @@
  # Text preprocessing functions
 
-from your_preprocessing_module import preprocess_text
-from config.settings import steam_collection, reddit_collection
-
 def run_preprocessing():
     """
     Retrieves raw data from MongoDB, applies text preprocessing, and stores
