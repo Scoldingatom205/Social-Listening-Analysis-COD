@@ -1,11 +1,9 @@
 # Python dependencies
-
 pymongo
 pandas
+praw
 nltk
-requests
 bert-topic
 sentence-transformers
-schedule
-# Include other dependencies like airflow if needed
+airflow
 
