@@ -1,4 +1,5 @@
 # Airflow DAGs
+
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from airflow.utils.dates import days_ago
@@ -14,12 +15,12 @@ default_args = {
     'retry_delay': timedelta(minutes=5),
 }
 
-# Define the DAG
+# Define the DAG to run daily
 with DAG(
     'cod_analysis_pipeline',
     default_args=default_args,
     description='A DAG for COD Data Collection, Preprocessing, and Analysis',
-    schedule_interval='@daily',  # Adjust as necessary
+    schedule_interval='@daily',  # Adjust to your needs
     start_date=days_ago(1),
     catchup=False
 ) as dag:
@@ -64,5 +65,5 @@ with DAG(
         python_callable=store_data
     )
 
-    # Task dependencies
+    # Task dependencies (set execution order)
     collect_data_task >> preprocess_data_task >> analysis_task >> store_data_task
