@@ -14,7 +14,7 @@ The Python code used to collect data and perform quality checks can be found [he
 The Python code used to [preprocess](https://github.com/Scoldingatom205/Social-Listening-Analysis-COD/blob/main/scripts/preprocess_data.py) then conduct sentiment analysis and topic modeling can be found [here.](https://github.com/Scoldingatom205/Social-Listening-Analysis-COD/blob/main/scripts/analysis.py)
 
 
-## Dataset Structure
+# Dataset Structure
 The data comprises user-generated feedback from Steam and Reddit. The datasets are processed for sentiment analysis, topic modeling, and manual clustering, ensuring a comprehensive understanding of the players’ feedback. We collected and analyzed over 6,000 player reviews, comments, and posts from Reddit and Steam.
 
 All data was stored in MongoDB in BSON format for scalability and flexibility. 
