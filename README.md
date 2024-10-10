@@ -1,15 +1,27 @@
-# Call of Duty: Black Ops 6 Sentiment & Topic Analysis – Project Overview
+# Project Overview
+Call of Duty, a globally recognized franchise, garners immense feedback through various online platforms. 
 
-This project is a comprehensive analysis of player feedback during the Call of Duty: Black Ops 6 (BO6) beta, focusing on sentiment analysis and topic modeling. Through the collection of over 6,000 reviews, comments, and posts from Reddit and Steam, we examined players' most pressing concerns and overall sentiment toward the game across two beta weekends: August 30 – September 4, 2024 (Beta Weekend One) and September 6 – September 9, 2024 (Beta Weekend Two).
+This project aims to provide insights into player sentiment by collecting and analyzing reviews and comments from two key platforms: Steam and Reddit. The purpose of this project is to give the game's development team a clear understanding of the community's feedback, focusing on both positive and negative sentiment across critical areas like gameplay mechanics, map design, weapon balance, and server performance.
 
-### Business Question:
-How can Treyarch, the game developer, use player feedback to improve the game ahead of launch? What key areas should they focus on to address player concerns to ensure player satisfaction and engagement?
+**Insights and Recommendations** are provided on the following key areas:
+- **Sentiment Analysis:** How players feel about the game overall (positive, negative).
+- **Topic Modeling:** Identifying key topics of discussion to prioritize development efforts.
+
+My visualizations can be seen here.
+
+The Python code used to collect data can be found here
+
+The Python code used to preprocess then concuct sentiment analysis and topic modeling can be found here
+
 
 ## Dataset Structure
-We collected and analyzed over 6,000 player reviews, comments, and posts from Reddit and Steam. The data included:
+The data comprises user-generated feedback from Steam and Reddit. The datasets are processed for sentiment analysis, topic modeling, and manual clustering, ensuring a comprehensive understanding of the players’ feedback. We collected and analyzed over 6,000 player reviews, comments, and posts from Reddit and Steam. The data included:
 
-- **Reddit:** Over 5000 posts and comments provided by players.
-- **Steam:** Over 1000 user reviews for the BO6 beta version
+The **data collection** for this analysis was carried out over two beta weekends:
+- August 30 – September 4, 2024 (Beta Weekend One)
+- September 6 – September 9, 2024 (Beta Weekend Two)
+  
+But code is ready to automatically collect and analyze online posts after launch on October 25, 2024.
 
 ![image](https://github.com/user-attachments/assets/922f3630-5107-46d9-a49e-84a398514df1)
 
