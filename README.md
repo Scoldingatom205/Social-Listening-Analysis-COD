@@ -9,9 +9,9 @@ This project aims to provide insights into player sentiment by collecting and an
 
 My visualizations can be seen here.
 
-The Python code used to collect data can be found [here](https://github.com/Scoldingatom205/Social-Listening-Analysis-COD/blob/main/scripts/extract_data.py)
+The Python code used to collect data can be found [here.](https://github.com/Scoldingatom205/Social-Listening-Analysis-COD/blob/main/scripts/extract_data.py)
 
-The Python code used to preprocess then concuct sentiment analysis and topic modeling can be found here
+The Python code used to [preprocess](https://github.com/Scoldingatom205/Social-Listening-Analysis-COD/blob/main/scripts/preprocess_data.py) then conduct sentiment analysis and topic modeling can be found [here.](https://github.com/Scoldingatom205/Social-Listening-Analysis-COD/blob/main/scripts/analysis.py)
 
 
 ## Dataset Structure
