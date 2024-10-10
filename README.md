@@ -28,15 +28,19 @@ The **data collection** for this analysis was carried out over two beta weekends
 **But code is ready to automatically collect and analyze online posts after launch on October 25, 2024.**
 
 
-## Key Insights Summary
-The analysis focused on two primary KPIs:
-- **Sentiment Analysis:** How players feel about the game overall (positive, negative).
-- **Topic Modeling:** Identifying key topics of discussion to prioritize development efforts.
+# Executive Summary
+### Overview of Findings
+The collection of online posts, reviews, and comments across the two Call of Duty Black Ops 6 Beta Weekends reveals five main discussion clusters: Gameplay Experience, Weapon Balancing, Map Design, Server Performance, and Game/Engine Features. Huse **Spike in Conversations** after each largest surge in conversations occurred immediately after the launch of Beta Weekend 1, with discussions focusing primarily on gameplay (80% about movement) and game features (over 60% having trouble launching COD HQ). This trend steadies out throughout the weekend but picks up again after both weekends as players reflected on their experiences. **Weekend 2 Dominates** generating significantly more conversations than the first weekend. This is likely due to open access during the second weekend (as opposed to only pre-orders for Weekend 1), but also reflects Activision’s proactive engagement with the community. Quick responses to server issues, weapon balancing, and the addition of a new map kept players invested and engaged which is reflected on the sentiment graph below.
+
+![image](https://github.com/user-attachments/assets/10582496-f26e-46d7-8d61-8df1a6b23afa)
 
 #### 1. Sentiment Analysis:
 **Positive vs. Negative Reactions:**
 - Players were generally positive, with Beta Weekend Two seeing an average of 60% increase in positive sentiment compared to Beta Weekend One, despite having two fewer playable days.
 - Server Stability and Weapon Balancing emerged as the most negatively discussed topics, particularly during Beta Weekend One.
+
+![image](https://github.com/user-attachments/assets/582cd8d0-939e-491e-b56a-d62cfdd533c5)
+
 
 #### 2. Topic Modeling:
 Using BERTopic, we identified and categorized the top topics mentioned in both Reddit posts and Steam reviews. These topics reflect the most pressing concerns and highlights for players:
