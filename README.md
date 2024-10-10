@@ -15,16 +15,17 @@ The Python code used to [preprocess](https://github.com/Scoldingatom205/Social-L
 
 
 ## Dataset Structure
-The data comprises user-generated feedback from Steam and Reddit. The datasets are processed for sentiment analysis, topic modeling, and manual clustering, ensuring a comprehensive understanding of the players’ feedback. We collected and analyzed over 6,000 player reviews, comments, and posts from Reddit and Steam. The data included:
+The data comprises user-generated feedback from Steam and Reddit. The datasets are processed for sentiment analysis, topic modeling, and manual clustering, ensuring a comprehensive understanding of the players’ feedback. We collected and analyzed over 6,000 player reviews, comments, and posts from Reddit and Steam.
+
+All data was stored in MongoDB in BSON format for scalability and flexibility. 
+
+![image](https://github.com/user-attachments/assets/922f3630-5107-46d9-a49e-84a398514df1)
 
 The **data collection** for this analysis was carried out over two beta weekends:
 - August 30 – September 4, 2024 (Beta Weekend One)
 - September 6 – September 9, 2024 (Beta Weekend Two)
   
-But code is ready to automatically collect and analyze online posts after launch on October 25, 2024.
-
-![image](https://github.com/user-attachments/assets/922f3630-5107-46d9-a49e-84a398514df1)
-
+**But code is ready to automatically collect and analyze online posts after launch on October 25, 2024.**
 
 
 ## Key Insights Summary
