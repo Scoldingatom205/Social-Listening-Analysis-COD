@@ -7,7 +7,7 @@ This project aims to provide insights into player sentiment by collecting and an
 - **Sentiment Analysis:** How players feel about the game overall (positive, negative).
 - **Topic Modeling:** Identifying key topics of discussion to prioritize development efforts.
 
-My visualizations can be seen here.
+My visualizations can be seen [here.](https://www.canva.com/design/DAGQnq2GjLA/VTC1VZbvmajNDR60eXSdnw/view?utm_content=DAGQnq2GjLA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 The Python code used to collect data can be found [here.](https://github.com/Scoldingatom205/Social-Listening-Analysis-COD/blob/main/scripts/extract_data.py)
 
