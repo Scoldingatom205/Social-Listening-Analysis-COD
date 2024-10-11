@@ -30,26 +30,34 @@ The **data collection** for this analysis was carried out over two beta weekends
 
 # Executive Summary
 ### Overview of Findings
-The collection of online posts, reviews, and comments across the two Call of Duty Black Ops 6 Beta Weekends reveals five main discussion clusters: Gameplay Experience, Weapon Balancing, Map Design, Server Performance, and Game/Engine Features. Huse **Spike in Conversations** after each largest surge in conversations occurred immediately after the launch of Beta Weekend 1, with discussions focusing primarily on gameplay (80% about movement) and game features (over 60% having trouble launching COD HQ). This trend steadies out throughout the weekend but picks up again after both weekends as players reflected on their experiences. **Weekend 2 Dominates** generating significantly more conversations than the first weekend. This is likely due to open access during the second weekend (as opposed to only pre-orders for Weekend 1), but also reflects Activision’s proactive engagement with the community. Quick responses to server issues, weapon balancing, and the addition of a new map kept players invested and engaged which is reflected on the sentiment graph below.
+The collection of online posts, reviews, and comments across the two Call of Duty Black Ops 6 Beta Weekends reveals five main discussion clusters: Gameplay Experience, Weapon Balancing, Map Design, Server Performance, and Game/Engine Features. 
+
+Huse **Spike in Conversations** after each largest surge in conversations occurred immediately after the launch of Beta Weekend 1, with discussions focusing primarily on gameplay (80% about new omni-movement) and game features (over 60% having trouble launching COD HQ). This trend steadies out throughout the weekend but picks up again after both weekends as players reflected on their experiences. **Weekend 2 Dominates** generating significantly more conversations than the first weekend. This is likely due to open access during the second weekend (as opposed to only pre-orders for Weekend 1), but also reflects Activision’s proactive engagement with the community. Quick responses to server issues, weapon balancing, and the addition of a new map kept players invested and engaged which is reflected on the sentiment graph below.
 
 ![image](https://github.com/user-attachments/assets/10582496-f26e-46d7-8d61-8df1a6b23afa)
 
-#### 1. Sentiment Analysis:
-**Positive vs. Negative Reactions:**
-- Players were generally positive, with Beta Weekend Two seeing an average of 60% increase in positive sentiment compared to Beta Weekend One, despite having two fewer playable days.
-- Server Stability and Weapon Balancing emerged as the most negatively discussed topics, particularly during Beta Weekend One.
+### 1. Sentiment Analysis:
+**Positive vs. Negative Sentiment:**
+
+Players were generally positive, with Beta Weekend Two seeing an average of **60% increase in positive sentiment** compared to Beta Weekend One, despite having two fewer playable days.
+- Positive Sentiment: Across the clusters, positive sentiment dominates, reflecting a generally optimistic or favorable outlook on the topics discussed. The majority of the positive feedback comes from clusters like **Gameplay Experience (56.6%)** suggesting people were enjoying the fast paceness, new omnimovement, skill base match making, and time to kill. 
+- Negative Sentiment: Negative sentiment is most prominent in the **Map Design cluster (36.5%)**. This suggests that users are particularly critical of map structure, size, spawn points, and features around the map: head "glitches", favorable sides, breakable doors, glass, etc.
 
 ![image](https://github.com/user-attachments/assets/582cd8d0-939e-491e-b56a-d62cfdd533c5)
 
 
 #### 2. Topic Modeling:
-Using BERTopic, we identified and categorized the top topics mentioned in both Reddit posts and Steam reviews. These topics reflect the most pressing concerns and highlights for players:
+BERTopic, was used to identify and categorize the top topics mentioned in both Reddit posts and Steam reviews. Specific clsuters were manually made by my using my domain knowledge of the Call of Duty franchise and as a player of the Black Ops 6 beta. These topics reflect the most pressing concerns and highlights for players:
 
-- **Gameplay Experience:** Players praised the overall mechanics and fluidity of BO6, especially the fast-paced movement and high-kill environment. However, there was some pushback on time-to-kill (TTK) and concerns about the intensity of the sliding/nose-diving mechanics.
-- **Weapon Balancing:** Discussions around weapon balance focused on the Jackal, AMES, AK-47, and C9, with many players calling for adjustments before launch.
-- **Map Design:** Feedback was generally positive, though players voiced concerns over spawn points, map size, and unbalanced power positions in some modes.
-- **Server Performance:** A major area of negative feedback for both weekends, but significant improvements were noted following the 9/8 patch.
-- **Game/Engine Features:** The new COD HQ feature was criticized for making gameplay difficult. Additionally, players discussed the winner circle, final killcams, and the Body Shield, with mixed reviews on these features.
+- **Game/Engine Features:** 'Cod HQ' (67.5%) and 'Emotes, Winner Circle, Body Shield' (32.6%) are the most talked-about features in this cluster. Cod HQ was the most talked about topic among players with the majority showing a dislike towards the game feature due to its complexity, long launch time, constant trouble shooting, and large file size.also feature prominently, pointing to frustrations with the game's technical stability, especially around restarting or launching issues.
+- **Gameplay Experience:** **SBMM (Skill-Based Matchmaking) (57.1%)** is a major focus of player feedback, showing that players are particularly concerned with the fairness and balance of matchmaking with many complaining that their teammates are terrible or away-from-controller. **Movement (35.2%)** is another hot topic, highlighting how in-game mobility and responsiveness are vital aspects of the player experience most players expressing positive sentiment towards the new omnimovement. There is a bit of concern on the pace and hard-to-kill moveing players now. **Time-to-Kill (TTK) (7.7%**) rounds out the discussion, suggesting that the pace of gameplay and combat mechanics were a bit high which resuls in a lot of intensity of the game but difficult to survive.
+- **Server Performance/Connectivity Issues:** A huge issue that called for two patch updates was server and connectivity issues. In addition to difficulty launching the game (cod hq), many players had issues with disconnection, laggy/skippy gameplay, and difficulty finding games at all.
+- **Map Design:** Feedback was generally positive, with the two biggest concerns about maps being about Spawns (41.1%) and Small Map Size (38.7%). Players felt that spawns were not consistent and often too close to enemy lines causing an unfairness to the gameplay. A combination of fast movement, relatively high TTK, and small maps is an area of concern for many players as they feel the game is too hectic. Most players favoring for slightly bigger maps. The way game modes played on certain maps was not very unpleasant some players thought.
+- **Weapon Balancing:** Players were calling for adjustments on the smgs as they felt they were overpowered. A lot of discussions had to do with good attachment combinations for these weapons as well as discourse over which are the best weapons on specific maps.
+
+
+- **Commentary:** I clustered all not so important comments into one. Commentary consisted of comments regarding previous Call of Duty titles, criticism/compliments about Treyarch, Activision, and BO6, random talking points and references to other games. Not entirely relevant to our analysis but though I'd mention it.
+
 
 ### Importance for Treyarch, Activision
 This analysis offers actionable insights that are crucial for Treyarch and Activision in optimizing the game and ensuring a successful launch. Key benefits include:
@@ -61,6 +69,7 @@ This analysis offers actionable insights that are crucial for Treyarch and Activ
 - **Informed Business Decisions for Activision:** The insights gained from player feedback extend beyond gameplay, informing monetization strategies such as DLC, battle passes, and in-game purchases. Understanding player sentiment helps Activision align its in-game economy with what players want, improving revenue streams.
 - **Gaining a Competitive Advantage:** The FPS market is highly competitive, and by leveraging real-time feedback to deliver a more polished, player-focused experience, Treyarch and Activision can stand out against competitors. Addressing key concerns early enhances their competitive edge and builds a more loyal player base.
 
-
-
-
+# Caveats and Assumptions
+- Text data is not the easiest to handle, especially on social media, where there is a long of slang and noninformative comments so I had to omit about 2k comments from analysis.
+- I made assumptions about some of the topics in these clusters based on a few dozen comments. So if I saw that a topic assigned by BERTopic had [map, small, 'map_name'] then I would make assumptions that she comments were about small map designs. It is difficult to parse through all that text data manually especially since code does not have domain knowledge.
+- I omitted one huge 'Commentary' cluster which consisted of comments regarding previous Call of Duty titles, criticism/compliments about Treyarch, Activision, and BO6, random talking points and references to other games since it did not provide me valuable insights
