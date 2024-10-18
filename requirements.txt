@@ -6,4 +6,4 @@ nltk
 bert-topic
 sentence-transformers
 airflow
-
+beautifulsoup
